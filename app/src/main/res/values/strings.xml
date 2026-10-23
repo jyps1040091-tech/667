@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手勢滑鼠</string>
+    <string name="accessibility_description">讓手勢滑鼠能在螢幕上模擬點擊、拖曳、捲動，並顯示游標。只會依照鏡頭辨識到的手勢操作，不會讀取螢幕內容。</string>
+</resources>
